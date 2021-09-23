@@ -10,6 +10,7 @@ __pycache__/
 *.~*
 
 # Distribution / packaging
+config.ini
 .Python
 build/
 develop-eggs/
