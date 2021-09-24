@@ -1,5 +1,6 @@
 import sqlite3
 import configparser
+import pandas as pd
 
 def sqlite_connection():
 
